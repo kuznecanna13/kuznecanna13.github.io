@@ -294,3 +294,21 @@ p>a{
     position: relative;
     left: 300px;
 }
+
+
+.stati>*:hover{
+    scale: 1.1; 
+}
+
+p>a:hover{
+    font-size: 26px;
+}
+
+li>a:hover{
+    font-size: 31px;
+}
+
+nav>a:hover{
+    font-size: 26px;
+}
+
