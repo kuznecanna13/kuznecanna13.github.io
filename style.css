@@ -334,7 +334,6 @@ nav>a:hover{
     }
     nav>a{
         font-size: 16px;
-        
     }
     nav{
         top: 60px;
@@ -342,7 +341,7 @@ nav>a:hover{
     }
     header{
         height: 70px;
-        width: 400px;
+        width: 100%;
     }
     .banner>img{
         height: 200px;
@@ -350,5 +349,81 @@ nav>a:hover{
     .banner>p{
         font-size: 14px;
         width: 150px;
+    }
+    .stati{
+        width: 320px;
+    }
+    #igra{
+        left: -27px;
+        top: 0;
+    }
+    #igra>img{
+        width: 200px;
+        height: 216px;
+    }
+    #igra>a{
+        font-size: 20px;
+        left: 150px;
+        bottom: 80px;
+    }
+
+    #chiti>img{
+        width: 200px;
+        height: 216px;
+    }
+    #chiti{
+        left: -25px;
+        bottom: 0;
+    }
+    #chiti>a{
+        font-size: 20px;
+        bottom: 75px;
+        left: 145px;
+    }
+
+    #life>img{
+        width: 200px;
+        height: 174px;
+    }
+
+    #life{
+        left: -25px;
+        bottom: -25px;
+    }
+    #life>a{
+        font-size: 20px;
+        bottom: 75px;
+        left: 140px;
+    }
+
+    #build{
+        left: -25px;
+        bottom: -50px;
+    }
+    #build>img{
+        width: 200px;
+        height: 191px;
+    }
+    #build>a{
+        font-size: 20px;
+        bottom: 75px;
+        left: 125px;
+    }
+
+    .img_footer{
+        height: 100px;
+        left: -170px;
+    }
+
+    .footer_text{
+        left: 170px;
+        bottom: 20px;
+    }
+
+    p>a{
+        font-size: 20px;
+    }
+    footer{
+        width: 300px;
     }
 }
