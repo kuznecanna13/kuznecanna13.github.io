@@ -218,7 +218,6 @@ footer{
 }
 
 #text_stata{
-    
     height: 10700px;
 }
 
@@ -421,9 +420,41 @@ nav>a:hover{
     }
 
     p>a{
-        font-size: 20px;
+        font-size: 18px;
     }
     footer{
         width: 300px;
+    }
+    .text>*{
+        width: 80%;
+        font-size: 13px;
+        left: 20px;
+    }
+    .text{
+        width: 320px;
+    }
+    li>a{
+        font-size: 13px;
+    }
+    #text_stata{
+        height: 6900px;
+    }
+    #text_chiti{
+        height: 4630px;
+    }
+    #text_cas{
+        height: 4370px;
+    }
+    #text_build{
+        height: 540px;
+    }
+    #text_stati{
+        height: 450px;
+    }
+    p>a:active{
+        font-size: 20px;
+    }
+    nav>a:hover{
+        font-size: 18px;
     }
 }
